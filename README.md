@@ -2,7 +2,7 @@
 
 Author: Filip Skrzeczkowski
 
-An simulator of a 3C milling machine. Made with C++ 23, OpenGL and ImGui. Uses compute shaders to efficiently animate the milling process.
+A simulator of a 3C milling machine. Made with C++ 23, OpenGL and ImGui. Uses compute shaders to efficiently animate the milling process.
 
 ## How to build?
 
